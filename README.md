@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science and LLM application<br>👯 I’m looking to collaborate on Data science<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI, ML, LLM and Data science<br>💬 Ask me about<br>⚡ Fun fact I am funny
+🔭 I’m currently working on Data Science and LLM application<br>👯 Looking to collaborate on Data science and bridge the gap of AI <br>🤝 Providing help on AI and Data Science<br>🌱 I’m currently learning and researching on AI, ML and LLM<br>💬 Ask me about<br>⚡ Fun fact I am funny
 
 
 ## 🌐 Socials:
