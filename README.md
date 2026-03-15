@@ -1,7 +1,7 @@
 <div align="center">
 
 # Shushil Shah
-### `// AI/ML Engineer · LLM Application Builder · Pokhara, Nepal 🇳🇵`
+### ` AI/ML Engineer · LLM Application Builder · Pokhara, Nepal 🇳🇵`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=1D9E75&center=true&width=500&lines=Building+LLM+agents+that+solve+real+problems;Turning+symptoms+into+diagnoses+with+ML;Making+AI+accessible+from+Kathmandu+🇳🇵;Shipping+RAG+pipelines%2C+not+just+prototypes)](https://git.io/typing-svg)
 
@@ -36,10 +36,10 @@ I build end-to-end AI systems — from data pipelines and ML models to deployed 
 
 ## 🛠️ Tech Stack
 
-**AI/ML:** `Python` `TensorFlow` `PyTorch` `Keras` `Scikit-learn` `LangChain` `OpenCV`  
-**Data:** `Pandas` `NumPy` `Matplotlib` `Plotly` `Power BI`  
-**Backend/Deploy:** `Flask` `FastAPI` `Docker` `Heroku` `Streamlit` `Netlify`  
-**Databases:** `MongoDB` `MySQL` `SQLite`
+**AI/ML:** `Python` `TensorFlow` `PyTorch` `Keras` `Scikit-learn` `LangChain`  
+**Libraries/Stack:** `Pandas` `NumPy` `Matplotlib` `Plotly` `Power BI` `Crewai` 
+**Backend/Deploy:** `Flask` `FastAPI` `Docker` `Heroku` `Streamlit` `Render`  
+**Databases:** `MongoDB` `MySQL` `SQLite` `Postgres`
 
 ---
 
@@ -49,6 +49,7 @@ I build end-to-end AI systems — from data pipelines and ML models to deployed 
 |---|---|---|
 | Multi-agent RAG system | Vision + LLM integration | BizBuddy AI Chatbot |
 | LLM fine-tuning (LoRA) | AI deployment at scale | Medicine Recommender |
+| goPokhara-django | AI Frameworks | LMS-django |
 
 ---
 
